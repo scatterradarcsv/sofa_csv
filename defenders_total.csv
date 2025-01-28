@@ -1,6 +1,6 @@
 Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli Orta,İsabetli Orta %,İsabetli Uzun Top,İsabetli Uzun Top %,Başarılı Top Sürme,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele,Kazanılan Toplam İkili Mücadele %,Oyuncu,Oyuncu ID,Takım,Takım ID,Takım Kısaltması,minutesPlayed,appearances,90s
 32,26,60,606,83.36,1,33.33,48,44.44,5,46,39,85,60.28,Davinson Sánchez,566102,Galatasaray,3061,Galatasaray,1314,15,14.6
-36,16,35,688,85.15,19,21.11,47,48.96,32,81,24,105,58.66,Arthur Masuaku,174975,Beşiktaş,3050,Beşiktaş,1438,18,15.977777777777778
+37,16,35,688,85.15,19,21.11,47,48.96,32,82,24,106,58.89,Arthur Masuaku,174975,Beşiktaş,3050,Beşiktaş,1438,18,15.977777777777778
 12,40,79,774,81.22,6,60.0,73,50.34,5,28,87,115,58.97,Abdülkerim Bardakcı,178963,Galatasaray,3061,Galatasaray,1614,19,17.933333333333334
 31,12,60,820,88.08,1,50.0,105,65.22,2,49,19,68,65.38,Robin Yalçın,138154,Eyüpspor,7040,Eyüpspor,1683,19,18.7
 41,23,49,516,75.55,23,24.73,55,41.98,3,58,19,77,53.1,Zeki Yavru,140735,Samsunspor,3053,Samsunspor,1537,19,17.07777777777778
@@ -15,7 +15,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 23,15,81,806,80.76,0,0.0,64,39.02,2,34,54,88,57.14,Rick Van Drongelen,803023,Samsunspor,3053,Samsunspor,1594,18,17.711111111111112
 14,17,85,366,81.51,0,0.0,22,35.48,1,29,31,60,68.97,Arda Kızıldağ,904228,Gaziantep FK,5138,Gaziantep FK,1095,15,12.166666666666666
 39,20,38,705,83.53,5,41.67,15,26.79,3,68,16,84,52.83,Jonas Svensson,98199,Beşiktaş,3050,Beşiktaş,1466,17,16.288888888888888
-29,25,64,786,83.09,0,0.0,80,45.98,6,56,41,97,65.1,Veysel Sarı,98276,Antalyaspor,3056,Antalyaspor,1507,17,16.744444444444444
+29,26,64,786,83.09,0,0.0,80,45.98,6,56,41,97,65.1,Veysel Sarı,98276,Antalyaspor,3056,Antalyaspor,1507,17,16.744444444444444
 40,20,42,698,76.62,15,25.42,66,46.15,7,61,11,72,57.6,Florent Hadergjonaj,354860,Alanyaspor,6362,Alanyaspor,1800,20,20.0
 21,33,104,565,85.48,0,0.0,56,50.45,1,28,30,58,56.86,Uroš Radaković,151900,Sivasspor,3076,Sivasspor,1557,18,17.3
 37,24,103,843,85.07,0,0.0,71,47.65,1,63,39,102,59.65,Fidan Aliti,385296,Alanyaspor,6362,Alanyaspor,1800,20,20.0
@@ -82,7 +82,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 37,17,49,338,69.69,12,30.0,32,35.56,15,67,19,86,50.89,Nikola Boranijašević,150667,Konyaspor,3085,Konyaspor,1258,16,13.977777777777778
 19,12,53,279,71.36,0,0.0,32,38.1,2,28,27,55,61.11,Ondřej Čelůstka,45764,Bodrum FK,202390,Bodrum FK,1212,15,13.466666666666667
 46,26,47,346,69.9,3,16.67,15,28.85,17,79,30,109,50.0,Arda Kurtulan,1063395,Adana Demirspor,3101,Adana Demirspor,1305,15,14.5
-27,13,32,527,82.86,13,18.57,28,52.83,9,43,15,58,54.72,Güray Vural,43559,Antalyaspor,3056,Antalyaspor,1310,15,14.555555555555555
+27,13,31,527,82.73,13,18.31,28,52.83,9,43,15,58,54.72,Güray Vural,43559,Antalyaspor,3056,Antalyaspor,1310,15,14.555555555555555
 19,24,58,362,75.89,0,0.0,39,43.33,0,29,21,50,61.73,Uğurcan Yazğılı,904303,Konyaspor,3085,Konyaspor,1001,15,11.122222222222222
 17,8,16,142,75.13,5,22.73,8,44.44,4,24,3,27,47.37,Ogün Bayrak,903999,Göztepe,3054,Göztepe,670,11,7.444444444444445
 15,10,28,278,74.53,2,8.33,15,28.85,6,27,4,31,46.27,Léo Dubois,552680,Eyüpspor,7040,Eyüpspor,915,12,10.166666666666666
