@@ -1,6 +1,6 @@
 Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Başarılı Top Sürme,Başarılı Top Sürme %,Yaratılan Büyük Şans,Kilit Pas,Rakip Gol Bölgesinde İsabetli Pas,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele %,Kendisine Yapılan Faul,Oyuncu,Oyuncu ID,Takım,Takım ID,Takım Kısaltması,minutesPlayed,appearances,90s
 16,15.13,87,35,18.39,7,43.75,10,23,72,42,55,51.32,33,Victor Osimhen,822471,Galatasaray,3061,Galatasaray,1471,19,16.344444444444445
-18,14.28,84,37,21.43,12,38.71,4,22,106,55,68,46.07,37,Krzysztof Piątek,558738,Başakşehir FK,3086,Başakşehir FK,1933,24,21.477777777777778
+18,14.28,84,37,21.43,12,38.71,4,22,106,55,68,45.9,37,Krzysztof Piątek,558738,Başakşehir FK,3086,Başakşehir FK,1933,24,21.477777777777778
 9,6.33,57,22,15.79,23,37.7,11,28,146,46,33,34.5,13,Rômulo,1133743,Göztepe,3054,Göztepe,1594,19,17.711111111111112
 12,10.93,71,33,16.9,7,41.18,8,38,144,52,57,52.15,38,Edin Džeko,14990,Fenerbahçe,3052,Fenerbahçe,1657,25,18.41111111111111
 16,14.21,56,29,28.57,6,35.29,1,12,64,43,66,39.07,33,Simon Banza,825945,Trabzonspor,3051,Trabzonspor,1774,21,19.711111111111112
@@ -12,15 +12,15 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 12,12.58,55,29,21.82,12,42.86,5,12,111,50,49,40.57,16,Mame Thiam,180981,Eyüpspor,7040,Eyüpspor,2041,23,22.677777777777777
 1,2.23,25,4,4.0,21,65.63,3,26,154,41,16,46.34,10,Anthony Nwakaeme,139455,Trabzonspor,3051,Trabzonspor,975,14,10.833333333333334
 1,2.4,28,10,3.57,10,43.48,7,19,116,76,14,50.56,30,Roland Sallai,355088,Galatasaray,3061,Galatasaray,1160,18,12.88888888888889
-13,11.99,60,26,21.67,28,57.14,5,19,98,77,56,43.18,45,Ali Sowe,238394,Çaykur Rizespor,3064,Çaykur Rizespor,1998,25,22.2
+14,13.19,65,29,21.54,29,56.86,5,19,101,79,62,42.6,46,Ali Sowe,238394,Çaykur Rizespor,3064,Çaykur Rizespor,2088,26,23.2
 7,5.19,37,12,18.92,20,42.55,5,28,141,77,52,47.96,41,Sergio Córdova,881222,Alanyaspor,6362,Alanyaspor,1911,25,21.233333333333334
 3,4.61,30,11,10.0,9,64.29,6,19,87,62,17,51.97,48,Landry Dimata,826944,Samsunspor,3053,Samsunspor,1046,21,11.622222222222222
 8,6.77,47,16,17.02,17,47.22,6,22,92,47,72,39.67,23,Marius Mouandilmadji,943593,Samsunspor,3053,Samsunspor,1911,24,21.233333333333334
 6,7.85,43,19,13.95,17,51.52,3,15,86,41,36,43.5,14,David Okereke,831290,Gaziantep FK,5138,Gaziantep FK,1474,19,16.377777777777776
 7,7.04,36,15,19.44,7,30.43,3,12,44,40,54,46.08,25,Blaž Kramer,804405,Konyaspor,3085,Konyaspor,1340,21,14.88888888888889
 7,7.86,37,12,18.92,14,35.0,8,27,95,57,44,35.69,17,Juan,1009928,Göztepe,3054,Göztepe,1329,21,14.766666666666667
+6,4.97,40,18,15.0,13,48.15,1,15,150,50,99,50.85,17,Braian Samudio,892933,Antalyaspor,3056,Antalyaspor,1701,25,18.9
 6,5.54,41,16,14.63,21,56.76,1,16,83,37,28,29.28,14,Vincent Aboubakar,116869,Hatayspor,3091,Hatayspor,1495,19,16.61111111111111
-6,4.84,38,16,15.79,13,50.0,1,14,143,45,94,50.36,16,Braian Samudio,892933,Antalyaspor,3056,Antalyaspor,1630,24,18.11111111111111
 0,1.78,14,5,0.0,10,71.43,1,12,54,26,5,42.47,4,Jonathan Okita,809225,Bodrum FK,202390,Bodrum FK,637,8,7.0777777777777775
 5,6.36,39,16,12.82,20,52.63,5,17,80,53,19,36.18,24,Duckens Nazon,796023,Kayserispor,3072,Kayserispor,1314,23,14.6
 5,5.75,18,8,27.78,3,30.0,2,18,58,7,3,18.87,1,Michy Batshuayi,147745,Galatasaray,3061,Galatasaray,410,18,4.555555555555555
@@ -42,13 +42,13 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 3,3.8,23,10,13.04,8,61.54,0,7,47,14,26,40.82,4,Carlos Strandberg,333423,Hatayspor,3091,Hatayspor,769,20,8.544444444444444
 1,0.22,5,5,20.0,3,37.5,0,8,27,11,3,41.18,5,Salih Kavrazlı,964233,Adana Demirspor,3101,Adana Demirspor,277,10,3.077777777777778
 0,0.1,1,0,0.0,1,20.0,1,4,13,14,2,51.61,6,Osman Kaynak,1170288,Adana Demirspor,3101,Adana Demirspor,266,9,2.9555555555555557
+5,6.03,27,14,18.52,6,46.15,0,5,35,25,20,36.89,19,Adolfo Gaich,940692,Antalyaspor,3056,Antalyaspor,985,24,10.944444444444445
 2,1.67,20,6,10.0,15,39.47,2,17,81,42,8,44.25,20,Nabil Alioui,873049,Adana Demirspor,3101,Adana Demirspor,1065,20,11.833333333333334
 0,0.63,8,1,0.0,10,50.0,0,6,44,20,4,47.06,6,Muhammet Tunahan Tasci,980612,Konyaspor,3085,Konyaspor,427,10,4.7444444444444445
 1,1.54,4,3,25.0,0,0.0,0,1,7,6,4,50.0,5,Umut Bozok,869839,Eyüpspor,7040,Eyüpspor,114,8,1.2666666666666666
 0,0.44,4,2,0.0,7,43.75,1,6,40,15,4,36.54,5,Gaëtan Laura,1004042,Samsunspor,3053,Samsunspor,299,11,3.3222222222222224
 0,0.22,4,0,0.0,0,0.0,0,5,12,16,26,50.6,9,Celal Dumanli,903334,Bodrum FK,202390,Bodrum FK,260,17,2.888888888888889
 3,2.71,23,9,13.04,5,55.56,1,4,28,35,26,42.96,23,Stéphane Bahoken,153220,Kayserispor,3072,Kayserispor,788,17,8.755555555555556
-3,4.5,25,12,12.0,6,46.15,0,5,35,24,20,37.29,18,Adolfo Gaich,940692,Antalyaspor,3056,Antalyaspor,974,23,10.822222222222223
 2,1.52,5,4,40.0,6,37.5,0,3,24,10,10,31.75,3,David Datro Fofana,1090458,Göztepe,3054,Göztepe,282,9,3.1333333333333333
 1,0.47,6,2,16.67,1,33.33,0,3,17,12,19,41.33,8,Turaç Böke,997681,Sivasspor,3076,Sivasspor,363,18,4.033333333333333
 2,1.67,26,13,7.69,17,32.69,1,7,57,75,15,41.67,41,Christophe Lungoyi,883355,Gaziantep FK,5138,Gaziantep FK,1344,20,14.933333333333334
@@ -60,7 +60,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0,0.11,3,0,0.0,5,71.43,1,1,7,8,3,47.83,0,Mirza Cihan,909289,Gaziantep FK,5138,Gaziantep FK,127,8,1.4111111111111112
 1,0.52,9,2,11.11,6,46.15,0,5,32,27,1,46.67,16,Keita Baldé,317699,Sivasspor,3076,Sivasspor,442,11,4.911111111111111
 1,0.78,12,6,8.33,4,40.0,0,3,22,18,6,40.0,5,Ozan Demirbağ,1654166,Adana Demirspor,3101,Adana Demirspor,441,18,4.9
-1,0.72,10,2,10.0,8,36.36,0,4,18,25,5,38.96,2,Emrecan Bulut,1480663,Çaykur Rizespor,3064,Çaykur Rizespor,385,15,4.277777777777778
+1,0.72,10,2,10.0,8,36.36,0,4,20,27,7,40.0,3,Emrecan Bulut,1480663,Çaykur Rizespor,3064,Çaykur Rizespor,443,16,4.9222222222222225
 0,1.17,4,0,0.0,0,0.0,1,2,10,6,4,37.04,4,Talha Sariarslan,1088715,Kayserispor,3072,Kayserispor,140,9,1.5555555555555556
 1,1.64,10,4,10.0,1,50.0,2,4,24,8,6,25.45,3,Václav Jurečka,225850,Çaykur Rizespor,3064,Çaykur Rizespor,396,20,4.4
 0,0.88,7,3,0.0,0,0.0,0,0,5,8,4,40.0,5,Mustafa Hekimoğlu,1524303,Beşiktaş,3050,Beşiktaş,185,10,2.0555555555555554
