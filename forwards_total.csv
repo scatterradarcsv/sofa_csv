@@ -1,8 +1,8 @@
 Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Başarılı Top Sürme,Başarılı Top Sürme %,Yaratılan Büyük Şans,Kilit Pas,Rakip Gol Bölgesinde İsabetli Pas,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele %,Kendisine Yapılan Faul,Oyuncu,Oyuncu ID,Takım,Takım ID,Takım Kısaltması,minutesPlayed,appearances,90s
-20,18.06,99,40,20.2,11,52.38,10,24,85,51,66,53.92,37,Victor Osimhen,822471,Galatasaray,3061,Galatasaray,1718,22,19.08888888888889
+20,18.06,99,40,20.2,11,55.0,10,24,85,51,66,54.17,37,Victor Osimhen,822471,Galatasaray,3061,Galatasaray,1718,22,19.08888888888889
 11,8.14,62,25,17.74,26,39.39,11,29,159,51,39,35.29,14,Rômulo,1133743,Göztepe,3054,Göztepe,1774,21,19.711111111111112
 18,15.3,89,41,20.22,12,37.5,5,24,110,56,73,46.4,38,Krzysztof Piątek,558738,Başakşehir FK,3086,Başakşehir FK,2012,25,22.355555555555554
-10,8.49,80,27,12.5,19,48.72,7,20,101,84,58,48.14,62,Rey Manaj,587882,Sivasspor,3076,Sivasspor,1678,21,18.644444444444446
+10,8.62,80,27,12.5,20,51.28,7,20,101,85,58,48.15,62,Rey Manaj,587882,Sivasspor,3076,Sivasspor,1678,21,18.644444444444446
 12,11.79,81,37,14.81,8,42.11,8,39,154,55,61,52.49,40,Edin Džeko,14990,Fenerbahçe,3052,Fenerbahçe,1765,27,19.61111111111111
 17,14.38,58,30,29.31,7,35.0,1,14,68,50,67,38.49,37,Simon Banza,825945,Trabzonspor,3051,Trabzonspor,1954,23,21.711111111111112
 10,10.67,68,23,14.71,28,54.9,2,14,102,102,59,50.95,41,Nuno Da Costa,209374,Kasımpaşa,6063,Kasımpaşa,1963,23,21.81111111111111
@@ -36,8 +36,8 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0,0.4,12,4,0.0,3,42.86,2,12,70,15,5,52.63,4,Rony Lopes,190147,Alanyaspor,6362,Alanyaspor,332,15,3.688888888888889
 8,7.06,42,18,19.05,15,46.88,1,17,58,37,34,41.04,14,George Pușcaș,190319,Bodrum FK,202390,Bodrum FK,1645,27,18.27777777777778
 7,5.35,33,14,21.21,21,39.62,1,15,76,52,19,37.57,22,Yusuf Barası,1000187,Adana Demirspor,3101,Adana Demirspor,1762,23,19.57777777777778
-3,4.19,32,13,9.38,33,57.89,7,14,96,68,19,39.19,27,Semih Kılıçsoy,1142606,Beşiktaş,3050,Beşiktaş,1215,26,13.5
-4,1.33,12,5,33.33,1,16.67,1,5,28,16,23,41.49,9,Bekir Turaç Böke,997681,Sivasspor,3076,Sivasspor,526,21,5.844444444444444
+3,4.18,32,13,9.38,33,57.89,7,14,95,68,19,39.01,27,Semih Kılıçsoy,1142606,Beşiktaş,3050,Beşiktaş,1215,26,13.5
+4,1.45,12,5,33.33,1,16.67,1,5,26,16,23,41.49,9,Bekir Turaç Böke,997681,Sivasspor,3076,Sivasspor,526,21,5.844444444444444
 3,3.38,21,7,14.29,4,44.44,0,10,58,26,71,52.15,18,Umut Nayir,284767,Konyaspor,3085,Konyaspor,1136,26,12.622222222222222
 3,5.43,40,10,7.5,19,61.29,1,18,107,61,11,40.0,17,Taulant Seferi,279487,Bodrum FK,202390,Bodrum FK,1543,23,17.144444444444446
 6,6.71,29,15,20.69,7,50.0,1,7,40,29,22,38.35,23,Adolfo Gaich,940692,Antalyaspor,3056,Antalyaspor,1033,26,11.477777777777778
