@@ -1,6 +1,6 @@
 Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Başarılı Top Sürme,Başarılı Top Sürme %,Yaratılan Büyük Şans,Kilit Pas,Rakip Gol Bölgesinde İsabetli Pas,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele %,Kendisine Yapılan Faul,Oyuncu,Oyuncu ID,Takım,Takım ID,Takım Kısaltması,minutesPlayed,appearances,90s
 20,18.06,99,40,20.2,11,55.0,10,24,85,51,66,54.17,37,Victor Osimhen,822471,Galatasaray,3061,Galatasaray,1718,22,19.08888888888889
-11,8.14,62,25,17.74,26,39.39,11,29,159,51,39,35.29,14,Rômulo,1133743,Göztepe,3054,Göztepe,1774,21,19.711111111111112
+11,8.14,62,25,17.74,25,37.88,11,29,159,50,38,34.65,14,Rômulo,1133743,Göztepe,3054,Göztepe,1774,21,19.711111111111112
 18,15.3,89,41,20.22,12,37.5,5,24,110,56,73,46.4,38,Krzysztof Piątek,558738,Başakşehir FK,3086,Başakşehir FK,2012,25,22.355555555555554
 10,8.62,80,27,12.5,20,51.28,7,20,101,85,58,48.15,62,Rey Manaj,587882,Sivasspor,3076,Sivasspor,1678,21,18.644444444444446
 12,11.79,81,37,14.81,8,42.11,8,39,154,55,61,52.49,40,Edin Džeko,14990,Fenerbahçe,3052,Fenerbahçe,1765,27,19.61111111111111
@@ -18,7 +18,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 7,8.88,47,22,14.89,17,44.74,3,17,102,47,43,43.06,17,David Okereke,831290,Gaziantep FK,5138,Gaziantep FK,1736,22,19.288888888888888
 8,7.82,39,17,20.51,7,29.17,3,13,51,42,60,44.35,27,Blaž Kramer,804405,Konyaspor,3085,Konyaspor,1514,23,16.822222222222223
 7,5.3,44,21,15.91,14,48.28,1,15,157,55,109,51.74,20,Braian Samudio,892933,Antalyaspor,3056,Antalyaspor,1798,27,19.977777777777778
-7,8.34,40,12,17.5,22,42.31,8,30,109,73,51,37.24,21,Juan,1009928,Göztepe,3054,Göztepe,1562,24,17.355555555555554
+7,8.34,40,12,17.5,22,42.31,8,30,109,73,51,37.35,21,Juan,1009928,Göztepe,3054,Göztepe,1562,24,17.355555555555554
 8,8.05,57,20,14.04,18,45.0,6,22,98,51,78,39.09,25,Marius Mouandilmadji,943593,Samsunspor,3053,Samsunspor,2076,26,23.066666666666666
 6,5.92,46,18,13.04,24,54.55,1,18,99,43,34,30.56,17,Vincent Aboubakar,116869,Hatayspor,3091,Hatayspor,1720,22,19.11111111111111
 6,7.99,46,20,13.04,23,51.11,6,20,92,58,21,36.92,25,Duckens Nazon,796023,Kayserispor,3072,Kayserispor,1421,25,15.78888888888889
@@ -32,7 +32,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 3,0.43,10,10,30.0,4,40.0,0,9,43,15,4,42.22,7,Salih Kavrazlı,964233,Adana Demirspor,3101,Adana Demirspor,457,12,5.0777777777777775
 1,0.69,11,2,9.09,13,54.17,2,10,55,28,4,49.23,7,Muhammet Tunahan Tasci,980612,Konyaspor,3085,Konyaspor,536,13,5.955555555555556
 1,1.96,18,8,5.56,33,56.9,1,8,74,77,23,47.85,19,Halil Dervişoğlu,930775,Gaziantep FK,5138,Gaziantep FK,1039,20,11.544444444444444
-0,0.85,13,6,0.0,6,100.0,1,4,34,23,22,56.96,8,Enis Destan,1012480,Trabzonspor,3051,Trabzonspor,463,15,5.144444444444445
+0,0.88,13,6,0.0,6,100.0,1,4,34,23,22,56.96,8,Enis Destan,1012480,Trabzonspor,3051,Trabzonspor,463,15,5.144444444444445
 0,0.4,12,4,0.0,3,42.86,2,12,70,15,5,52.63,4,Rony Lopes,190147,Alanyaspor,6362,Alanyaspor,332,15,3.688888888888889
 8,7.06,42,18,19.05,15,46.88,1,17,58,37,34,41.04,14,George Pușcaș,190319,Bodrum FK,202390,Bodrum FK,1645,27,18.27777777777778
 7,5.35,33,14,21.21,21,39.62,1,15,76,52,19,37.57,22,Yusuf Barası,1000187,Adana Demirspor,3101,Adana Demirspor,1762,23,19.57777777777778
