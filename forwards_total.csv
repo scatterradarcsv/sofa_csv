@@ -1,7 +1,7 @@
 Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Başarılı Top Sürme,Başarılı Top Sürme %,Yaratılan Büyük Şans,Kilit Pas,Rakip Gol Bölgesinde İsabetli Pas,Zeminde Kazanılan İkili Mücadele,Kazanılan Hava Topu Mücadelesi,Kazanılan Toplam İkili Mücadele %,Kendisine Yapılan Faul,Oyuncu,Oyuncu ID,Takım,Takım ID,Takım Kısaltması,minutesPlayed,appearances,90s
 20,18.06,99,40,20.2,11,55.0,10,24,85,51,66,54.17,37,Victor Osimhen,822471,Galatasaray,3061,Galatasaray,1718,22,19.08888888888889
 11,8.14,62,25,17.74,25,37.88,11,29,159,50,38,34.65,14,Rômulo,1133743,Göztepe,3054,Göztepe,1774,21,19.711111111111112
-18,15.3,89,41,20.22,12,37.5,5,24,110,56,73,46.4,38,Krzysztof Piątek,558738,Başakşehir FK,3086,Başakşehir FK,2012,25,22.355555555555554
+18,15.45,91,43,19.78,12,37.5,5,24,115,58,73,46.13,39,Krzysztof Piątek,558738,Başakşehir FK,3086,Başakşehir FK,2097,26,23.3
 10,8.62,80,27,12.5,20,51.28,7,20,101,85,58,48.15,62,Rey Manaj,587882,Sivasspor,3076,Sivasspor,1678,21,18.644444444444446
 12,11.79,81,37,14.81,8,42.11,8,39,154,55,61,52.49,40,Edin Džeko,14990,Fenerbahçe,3052,Fenerbahçe,1765,27,19.61111111111111
 17,14.38,58,30,29.31,7,35.0,1,14,68,50,67,38.49,37,Simon Banza,825945,Trabzonspor,3051,Trabzonspor,1954,23,21.711111111111112
@@ -10,8 +10,8 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 5,4.74,37,18,13.51,12,36.36,5,43,163,50,14,37.87,22,David Tijanič,827369,Göztepe,3054,Göztepe,1421,26,15.78888888888889
 1,2.23,25,4,4.0,21,65.63,3,26,154,41,16,46.34,10,Anthony Nwakaeme,139455,Trabzonspor,3051,Trabzonspor,975,14,10.833333333333334
 11,10.87,52,18,21.15,12,57.14,5,21,132,38,25,42.86,15,Ciro Immobile,45923,Beşiktaş,3050,Beşiktaş,1703,23,18.92222222222222
-12,13.01,59,31,20.34,12,42.86,5,13,115,54,56,39.29,19,Mame Thiam,180981,Eyüpspor,7040,Eyüpspor,2221,25,24.677777777777777
 1,2.41,29,10,3.45,11,45.83,7,20,121,80,14,51.37,33,Roland Sallai,355088,Galatasaray,3061,Galatasaray,1200,20,13.333333333333334
+12,13.03,60,32,20.0,12,41.38,5,14,118,56,59,38.85,20,Mame Thiam,180981,Eyüpspor,7040,Eyüpspor,2311,26,25.677777777777777
 8,5.84,44,13,18.18,20,39.22,8,32,155,85,60,47.23,48,Sergio Córdova,881222,Alanyaspor,6362,Alanyaspor,2152,28,23.91111111111111
 14,13.48,65,29,21.54,29,56.86,5,19,103,79,64,42.56,46,Ali Sowe,238394,Çaykur Rizespor,3064,Çaykur Rizespor,2178,27,24.2
 3,4.66,32,13,9.38,13,68.42,6,20,101,73,19,52.87,53,Landry Dimata,826944,Samsunspor,3053,Samsunspor,1175,24,13.055555555555555
@@ -24,7 +24,6 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 6,7.99,46,20,13.04,23,51.11,6,20,92,58,21,36.92,25,Duckens Nazon,796023,Kayserispor,3072,Kayserispor,1421,25,15.78888888888889
 5,5.79,18,8,27.78,3,30.0,2,18,58,7,3,18.87,1,Michy Batshuayi,147745,Galatasaray,3061,Galatasaray,410,18,4.555555555555555
 1,2.62,12,6,8.33,4,80.0,1,3,33,16,4,57.14,6,Gianni Bruno,100680,Eyüpspor,7040,Eyüpspor,385,13,4.277777777777778
-4,2.92,27,13,14.81,16,53.33,0,16,106,66,49,50.66,43,Bengali-Fodé Koita,51407,Sivasspor,3076,Sivasspor,1280,19,14.222222222222221
 1,1.52,18,8,5.56,26,55.32,2,7,79,64,7,47.97,17,Denis Drăguş,841199,Trabzonspor,3051,Trabzonspor,772,15,8.577777777777778
 0,2.01,17,7,0.0,11,64.71,1,13,60,29,5,40.96,4,Jonathan Okita,809225,Bodrum FK,202390,Bodrum FK,726,10,8.066666666666666
 2,1.42,9,4,22.22,3,50.0,0,2,6,10,19,61.7,7,Emmanuel Boateng,580392,Gaziantep FK,5138,Gaziantep FK,312,8,3.466666666666667
@@ -41,9 +40,9 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 3,3.38,21,7,14.29,4,44.44,0,10,58,26,71,52.15,18,Umut Nayir,284767,Konyaspor,3085,Konyaspor,1136,26,12.622222222222222
 3,5.43,40,10,7.5,19,61.29,1,18,107,61,11,40.0,17,Taulant Seferi,279487,Bodrum FK,202390,Bodrum FK,1543,23,17.144444444444446
 6,6.71,29,15,20.69,7,50.0,1,7,40,29,22,38.35,23,Adolfo Gaich,940692,Antalyaspor,3056,Antalyaspor,1033,26,11.477777777777778
-2,1.82,6,4,33.33,1,25.0,0,1,9,11,7,51.43,8,Umut Bozok,869839,Eyüpspor,7040,Eyüpspor,175,10,1.9444444444444444
-2,1.55,16,4,12.5,9,39.13,3,8,41,28,38,43.42,16,Philippe Keny,988909,Başakşehir FK,3086,Başakşehir FK,723,18,8.033333333333333
-6,5.04,30,16,20.0,8,27.59,1,6,78,39,19,37.18,20,João Figueiredo,841012,Başakşehir FK,3086,Başakşehir FK,1151,24,12.78888888888889
+2,1.82,6,4,33.33,2,33.33,0,1,10,15,7,55.0,10,Umut Bozok,869839,Eyüpspor,7040,Eyüpspor,188,11,2.088888888888889
+2,1.78,17,5,11.76,9,39.13,3,8,41,28,39,43.51,16,Philippe Keny,988909,Başakşehir FK,3086,Başakşehir FK,740,19,8.222222222222221
+6,5.04,30,16,20.0,8,27.59,1,6,78,40,19,37.11,20,João Figueiredo,841012,Başakşehir FK,3086,Başakşehir FK,1168,25,12.977777777777778
 5,6.01,31,10,16.13,7,33.33,2,8,39,29,11,39.6,16,Ui-Jo Hwang,791314,Alanyaspor,6362,Alanyaspor,1049,23,11.655555555555555
 3,3.83,24,10,12.5,8,61.54,0,7,47,14,28,41.18,4,Carlos Strandberg,333423,Hatayspor,3091,Hatayspor,829,21,9.21111111111111
 0,0.6,9,2,0.0,4,26.67,2,7,43,16,17,37.5,4,Danylo Sikan,945479,Trabzonspor,3051,Trabzonspor,504,8,5.6
@@ -61,7 +60,6 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 4,3.28,20,7,20.0,2,22.22,0,6,23,18,10,29.47,14,Abat Aimbetov,189193,Adana Demirspor,3101,Adana Demirspor,935,19,10.38888888888889
 0,2.25,28,7,0.0,14,32.56,0,8,89,52,6,35.37,15,Gökdeniz Bayrakdar,952564,Bodrum FK,202390,Bodrum FK,1290,22,14.333333333333334
 2,1.12,4,2,50.0,0,0.0,1,2,16,4,1,23.81,0,Queensy Menig,232318,Sivasspor,3076,Sivasspor,260,12,2.888888888888889
-0,0.11,3,0,0.0,5,71.43,1,1,7,8,3,47.83,0,Mirza Cihan,909289,Gaziantep FK,5138,Gaziantep FK,127,8,1.4111111111111112
 2,2.31,13,8,15.38,3,60.0,0,6,35,10,31,40.59,7,Kenan Kodro,591140,Gaziantep FK,5138,Gaziantep FK,738,24,8.2
 1,0.52,9,2,11.11,6,46.15,0,5,32,27,1,46.67,16,Keita Baldé,317699,Sivasspor,3076,Sivasspor,442,11,4.911111111111111
 1,0.81,11,2,9.09,10,38.46,0,4,21,32,7,41.49,4,Emrecan Bulut,1480663,Çaykur Rizespor,3064,Çaykur Rizespor,459,17,5.1
